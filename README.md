@@ -1,6 +1,6 @@
 # 🎲 Then We Roll - Pokémon Randomizer
 
-A desktop randomiser for "Then We Fight" style challenge content. Roll random **abilities**, **Pokémon**, **typings**, **stat spreads**, and **natures** - filtered to what's actually available in the game you're playing. Built with Python and tkinter, works fully offline.
+A desktop randomiser for "Then We Fight" style challenge content. Roll random **abilities**, **Pokémon**, **typings**, **stat spreads**, and **natures** - filtered to what's actually available in the game you're playing. Built with Python and tkinter, works fully offline. As used by Patterrz and GBL!
 
 > Formerly known as the *Pokémon Ability Randomizer* - it outgrew the name.
 
