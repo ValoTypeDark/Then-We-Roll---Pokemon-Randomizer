@@ -149,7 +149,7 @@ Switch themes using the dropdown in the header. The theme is applied live and sa
 
 ## Auto-update
 
-On launch, the app checks the [GitHub releases page](https://github.com/ValoTypeDark/Ability-Randomiser/releases) for a newer version. Accepting the update:
+On launch, the app checks the [GitHub releases page](https://github.com/ValoTypeDark/Then-We-Roll---Pokemon-Randomizer/releases) for a newer version. Accepting the update:
 
 - Replaces the script and restarts the app
 - Also refreshes the shipped data files (`abilities.json`, `pokemon.json`, tab icons) so pools stay accurate without a manual fetch
